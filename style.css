@@ -16,6 +16,9 @@
   text-transform: uppercase;
 }
 nav{
+  position: fixed;
+  top: 0;
+  left: 0;
   text-align: right;
 }
 nav a{
