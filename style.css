@@ -1,0 +1,28 @@
+.container{
+  width:97%;
+  background: silver;
+  margin: 0 auto;
+}
+*{
+  margin:0;
+  padding: 0;
+}
+/*navbar*/
+#navbar{
+  width: 100%;
+  background: gray;
+  padding: 10px 0;
+  font-size: 1.2em;
+  text-transform: uppercase;
+}
+nav{
+  text-align: right;
+}
+nav a{
+  text-decoration: none;
+  padding-left:35px;
+}
+a:hover{
+  background: white;
+  color:black;
+}
